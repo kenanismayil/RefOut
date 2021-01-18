@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1321
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefOut", "RefOut\RefOut.csproj", "{738F5F68-1ABE-4F3F-BABA-3B244D4FE837}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefOutTogether", "RefOutTogether\RefOutTogether.csproj", "{EC5CF3A1-1872-49A1-8EC4-A58C1466C086}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{738F5F68-1ABE-4F3F-BABA-3B244D4FE837}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{738F5F68-1ABE-4F3F-BABA-3B244D4FE837}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{738F5F68-1ABE-4F3F-BABA-3B244D4FE837}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC5CF3A1-1872-49A1-8EC4-A58C1466C086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC5CF3A1-1872-49A1-8EC4-A58C1466C086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC5CF3A1-1872-49A1-8EC4-A58C1466C086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC5CF3A1-1872-49A1-8EC4-A58C1466C086}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
